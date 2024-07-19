@@ -1,7 +1,5 @@
 # Campus Event Management
 
-## Description
-
 The project seeks to establish a centralized hub where students and staff of the Institute can access information regarding events like cultural festivities, academic seminars, sports competitions, and alumni gatherings taking place on campus. By consolidating event details into a single platform, the aim is to provide easier access to event information and a wider reach to the intended audience.Ultimately, the project endeavors to enhance the overall campus experience by facilitating greater participation, connectivity, and enjoyment among students, faculty, staff, and alumni.
 
 The project is implemented using the Django framework and MySQL as the Database Management System. For the frontend, we have made use of HTML, CSS and Bootstrap.
