@@ -100,8 +100,8 @@ This project was done under our Database Systems Course.
 
 Contributors : 
 
-<a href="https://github.com/justavanee">
-  <img src="https://github.com/justavanee.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
+<a href="https://github.com/justavanee" style="border-radius: 50%;">
+  <img src="https://github.com/justavanee.png" alt="Alt Text" style="width: 60px">
 </a>
 <a href="https://github.com/jyolx">
   <img src="https://github.com/jyolx.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
