@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Change the database password to your mysql root password in ![src/CEMS/settings.py under DATABASES["PASSWORD"]](https://github.com/jyolx/CEMS/blob/ebc783440e8107abdc214d9a26667c4a77e44826/src/CEMS/settings.py#L91)
+Change the database password to your mysql root password in [src/CEMS/settings.py under DATABASES["PASSWORD"]](https://github.com/jyolx/CEMS/blob/ebc783440e8107abdc214d9a26667c4a77e44826/src/CEMS/settings.py#L91)
 
 Create CEMS database in MySQL 
 ~~~~sql
@@ -55,9 +55,7 @@ Visit http://127.0.0.1:8000/ with your web browser to see the code in action!
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![Fresh view of Website HomePage](assets/images/website_blank.png)
-    ```
+![Fresh view of Website HomePage](assets/images/website_blank.png)
 
 ## Credits
 
