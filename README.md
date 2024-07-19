@@ -10,7 +10,7 @@ The project is implemented using the Django framework and MySQL as the Database 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#data)
+- [Documentation](#documentation)
 - [Credits](#credits)
 
 ## Installation
@@ -100,11 +100,21 @@ This project was done under our Database Systems Course.
 
 Contributors : 
 
-[<img src="https://github.com/justavanee.png" style="border-radius: 50%; width: 60px"/>](https://github.com/justavanee)
-[<img src="https://github.com/jyolx.png" style="border-radius: 50%; width: 60px"/>](https://github.com/jyolx)
-[<img src="https://github.com/nimishathallapally.png" style="border-radius: 50%; width: 60px"/>](https://github.com/nimishathallapally)
-[<img src="https://github.com/meghahaa.png" style="border-radius: 50%; width: 60px"/>](https://github.com/meghahaa)
-[<img src="https://github.com/deshna2thunga0.png" style="border-radius: 50%; width: 60px"/>](https://github.com/deshna2thunga0)
+<a href="https://github.com/justavanee">
+  <img src="https://github.com/justavanee.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
+</a>
+<a href="https://github.com/jyolx">
+  <img src="https://github.com/jyolx.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
+</a>
+<a href="https://github.com/nimishathallapally">
+  <img src="https://github.com/nimishathallapally.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
+</a>
+<a href="https://github.com/meghahaa">
+  <img src="https://github.com/meghahaa.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
+</a>
+<a href="https://github.com/deshna2thunga0">
+  <img src="https://github.com/deshna2thunga0.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
+</a>
 
 
 
