@@ -99,7 +99,9 @@ For the initial values we used for the database, check out the db folder.
 This project was done under our Database Systems Course.
 
 Contributors : 
-![Avatar](https://avatars.githubusercontent.com/jyolx?s=100&v=4)
+<div style="width: 50px; height: 50px; overflow: hidden; border-radius: 50%;">
+    <img src="https://avatars.githubusercontent.com/jyolx?s=100&v=4" alt="exampleuser" style="width: 100%; height: auto;">
+</div>
 
 <a href="https://github.com/justavanee">
   <img src="https://github.com/justavanee.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
