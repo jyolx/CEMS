@@ -99,6 +99,7 @@ For the initial values we used for the database, check out the db folder.
 This project was done under our Database Systems Course.
 
 Contributors : 
+![Avatar](https://avatars.githubusercontent.com/jyolx?s=100&v=4)
 
 <a href="https://github.com/justavanee">
   <img src="https://github.com/justavanee.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
