@@ -6,7 +6,7 @@ The project is implemented using the Django framework and MySQL as the Database 
 
 ![Website HomePage](assets/images/Homepage.png)
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
